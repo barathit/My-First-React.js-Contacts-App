@@ -1,3 +1,4 @@
-React.js  simple Contact App.
-![Screenshot 2024-09-24 210958](https://github.com/user-attachments/assets/d17bc0d5-0c6b-45c2-a36e-f0265187560f)
-![Screenshot 2024-09-24 211015](https://github.com/user-attachments/assets/e4c43476-8db2-4991-a8c6-d7b02348b57b)
+React.js simple Contact App.
+![Screenshot 2024-09-24 211326](https://github.com/user-attachments/assets/d5deb985-7ed0-441b-a51b-e7635a9dd2f4)
+![Screenshot 2024-09-24 211420](https://github.com/user-attachments/assets/9d91a6b5-b6fd-4395-936c-64ac782b57fd)
+
